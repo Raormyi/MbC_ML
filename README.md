@@ -4,3 +4,5 @@ Maths by Computer MA124 coursework on Machine Learning by Misha Zapolskiy, Thoma
 import numpy as np
 
 import matplotlib.pyplot as plt
+
+1. E4
